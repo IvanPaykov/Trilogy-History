@@ -1,0 +1,307 @@
+AltruBox Trilogy – AltruBox, AltruMoneta and PoAt
+The gift moves between people. The coin moves to a cause. Trust lives on-chain.
+________________________________________
+0. Short Summary
+The AltruBox Trilogy is a decentralized, blockchain-based system connecting:
+•	AltruBox – a gift box that is also a micro-foundation:
+the gift goes to the person, the coin that opens the box goes to a good cause.
+•	AltruMoneta – a physical and digital coin used to open the box and
+inevitably fund causes, funds, and public goods.
+•	PoAt (Proof of AltruTrust) – a trust certificate born from the
+interaction between box and coin, recording on-chain the history of
+trust and altruism between people, businesses, and services.
+Every act – opening a box, donating, completing a trust-based deal – is
+recorded as an on-chain event. Thus invisible trust becomes visible,
+portable, and verifiable.
+________________________________________
+1. The Story – from one bayonet to a trust trilogy
+It all starts with something very personal and very simple.
+A friend gives you an AK bayonet as a gift.
+In your culture, a knife is not given “for free” – it must be “paid for” with a coin,
+otherwise it is believed it will “cut” the relationship.
+You give him a coin. At that moment, something important happens:
+•	the bayonet is no longer just a gift – it becomes a ritual,
+•	the coin is no longer just money – it becomes a symbol of respect and balance.
+This moment does not fade.	
+Over time you:
+•	start buying and selling AK bayonets – as special gifts;
+•	want the gift to be more than just an object – you want a ritual.
+The first box appears:
+•	a cardboard box with a coin slot and a simple mechanical lock;
+•	inside – the bayonet, presented as a gift;
+•	to receive it, the person must insert a coin.
+The ritual is simple and magical:
+You insert a coin → something “clicks” → the box opens → the gift is yours.
+People love it. A simple gift becomes a small ceremony.
+Then comes the key question:
+•	What if the coin does not stay with the giver or the receiver?
+•	What if it always goes to a good cause?
+The answer gives birth to the three elements:
+1.	AltruBox – the gift box that is also a foundation in a box.
+2.	AltruMoneta – the coin that unlocks the gift and funds the cause.
+3.	PoAt – the certificate that records all these acts of trust
+and makes them portable across time and platforms.
+Then comes the natural evolution:
+•	from a physical box → to a digital AltruBox;
+•	from a physical coin → to a digital AltruMoneta (token);
+•	from “I trust you” said verbally → to PoAt, written and visible on-chain.
+________________________________________
+2. AltruBox – gift + foundation + on-chain event
+2.1. What is AltruBox
+AltruBox is:
+•	a gift box (physical or digital),
+•	containing a gift – item, service, access, NFT, code, rights, etc.,
+•	linked to a specific cause / fund / “foundation pool”.
+The core rule:
+The recipient always receives the gift.
+The coin used to open the box never goes to the recipient or the sender –
+it goes to the cause that the box is bound to.
+AltruBox is simultaneously:
+1.	A gift box – carrying emotion, gesture, symbol;
+2.	A micro-foundation – every opening = real funding of a cause.
+2.2. What AltruBox does
+•	It connects the personal moment of gifting with a public good.
+•	It removes the need:
+o	for money to move between friends and relatives,
+o	for complex contracts around small donations,
+o	for heavy administrative setups behind each micro-cause.
+The box itself is a mini-fund with a built-in mechanism:
+The gift moves on one line, the money moves on another.
+2.3. Physical AltruBox
+•	A box with:
+o	coin slot,
+o	simple mechanical unlocking mechanism.
+•	Inside:
+o	the gift,
+o	description of the cause (card, certificate, QR code).
+•	The recipient:
+o	inserts a physical coin,
+o	the box opens,
+o	the coin goes into a separate cash pool reserved for the cause.
+2.4. Digital AltruBox on blockchain
+In the digital world, AltruBox can be:
+•	an NFT or on-chain object, which includes:
+o	gift_metadata – what the gift is,
+o	cause_address – address of the cause (fund, DAO, multisig),
+o	rules – conditions for opening (how much AltruMoneta is required, etc.).
+Process:
+1.	The recipient wants to open the digital AltruBox.
+2.	They send AltruMoneta tokens to the box’s smart contract.
+3.	The smart contract:
+o	transfers the tokens to cause_address (or locks them into a fund),
+o	“unlocks” the gift (reveals content, allows claiming an NFT, etc.),
+o	emits on-chain events (BoxOpened, DonationRouted).
+All of this is:
+•	decentralized (logic lives in smart contracts),
+•	traceable (every transaction is on-chain),
+•	visible (anyone can inspect box → coin → cause flows).
+________________________________________
+3. AltruMoneta – intention coin and token for causes
+3.1. What is AltruMoneta
+AltruMoneta is:
+•	a physical and digital coin,
+•	used as a key to open AltruBox,
+•	and as a carrier of the donation to the cause.
+It is not:
+•	payment for the gift,
+•	a direct financial transaction between the two people,
+•	“just another speculative token”.
+It is:
+“The coin of intention” –
+“I want to receive this gift, and on the way I want to support the cause it is tied to.”
+3.2. What it does
+•	Connects the act of receiving with the act of giving.
+•	Ensures every box opening is not only a personal moment, but also
+funding for the common good.
+•	Creates on-chain traces:
+o	which address opened which box,
+o	which cause received funds,
+o	what volume passed through the system.
+3.3. How it works on blockchain
+On a technical level:
+•	AltruMoneta can be an ERC-20 (or similar) token,
+•	or an internal unit in a protocol, as long as it respects one invariant:
+When opening an AltruBox, the value of AltruMoneta
+never goes to sender or receiver –
+it goes to the cause.
+Process:
+1.	The recipient’s address holds some AltruMoneta.
+2.	To open AltruBox:
+o	they sign a transaction to the smart contract.
+3.	The smart contract:
+o	transfers the tokens to cause_address,
+o	records events (DonationRouted, BoxOpened),
+o	unlocks the gift.
+4.	These on-chain events are later used for:
+o	statistics and transparency,
+o	reports,
+o	and most importantly – for PoAt.
+________________________________________
+4. PoAt – Proof of AltruTrust: the trust certificate
+Here is the core focus.
+4.1. PoAt emerging from AltruBox–AltruMoneta interaction
+Every act:
+•	“gift in a box opened via coin to a cause”,
+•	trust-based deal,
+•	service or help aligned with these principles,
+leaves an on-chain trace:
+•	address → box → coin → cause → event.
+These events are not just accounting – they are proofs of trust and altruism.
+PoAt is the system that:
+•	reads these on-chain events,
+•	aggregates them per identity,
+•	turns them into a trust certificate for a specific person, business, or address.
+4.2. What is PoAt
+PoAt (Proof of AltruTrust) is:
+•	a declaration / certificate of trust,
+•	based on real actions (not opinions or star ratings),
+•	showing:
+o	how many times this person/business used AltruBox/AltruMoneta,
+o	how often they took risk in deals and fulfilled it,
+o	how they handled disputes,
+o	to what extent they support causes and communities.
+PoAt:
+•	can be carried between platforms,
+•	can evolve as new events accumulate,
+•	can be restricted or penalized if abuses are proven.
+4.3. How PoAt works (conceptually)
+1.	Event collection
+– from smart contracts of AltruBox, AltruMoneta and other integrated systems.
+2.	Identity
+– each event is linked to an address/identity (DID, ENS, etc.).
+3.	Aggregation
+– events are grouped per subject and described with:
+o	event type, timestamp, context, amount, cause, proof.
+4.	Certificate generation
+– a PoAt document is formed:
+o	overall statistics (number of trust-based deals, total donations, etc.),
+o	a list of key events,
+o	signatures from platforms/DAO/organizations that attest to them.
+5.	Verification and usage
+– another person, business or platform can:
+o	see the PoAt certificate,
+o	validate signatures and on-chain data,
+o	decide how much to trust this subject.
+________________________________________
+5. PoAt and analogies: HTTPS and Hawala
+5.1. PoAt and HTTPS
+HTTPS certificates:
+•	prove that a website is authentic and the connection is encrypted;
+•	we trust that there is a legitimate server/organization behind the domain.
+PoAt:
+•	proves that a person or small business has a consistent history
+of honest behavior and altruism;
+•	signals:
+“This entity has repeatedly behaved in a trustworthy way in deals and causes.”
+Similarities:
+•	both are trust certificates,
+•	both have:
+o	structured data,
+o	issuers,
+o	verifiable cryptographic proofs.
+Difference in focus:
+•	HTTPS → trust in a server/site (technical security).
+•	PoAt → trust in a person/business (social and economic behavior).
+In short:
+HTTPS says: “This site is real and the connection is secure.”
+PoAt says: “This person/business has repeatedly proven to be reliable and altruistic.”
+5.2. PoAt and Hawala
+Hawala:
+•	ancient value transfer system,
+•	works through a network of trusted intermediaries,
+•	almost no formal documentation,
+•	runs purely on reputation, honor, and word.
+PoAt:
+•	also works with reputation and trust,
+•	but instead of staying in the shadows,
+PoAt structures and lights up:
+o	who did what,
+o	which platforms/communities confirmed it,
+o	what history is being built.
+Metaphorically:
+Hawala is the “underground bank of honor.”
+PoAt is the “transparent, above-ground ledger of trust.”
+________________________________________
+6. Is there an analogue? Why is it needed and for whom?
+We have many partial pieces:
+•	Credit scores – focus only on money/debt, not altruism and trust-based behavior.
+•	Star ratings and reviews – locked into platforms, easy to game,
+limited to one ecosystem.
+•	Web of Trust, SSI, soulbound tokens – for keys, identities and merits
+in specific ecosystems.
+But there is no universal, open, decentralized certificate for trust and altruism,
+focused on:
+•	micro-deals,
+•	small services,
+•	causes,
+•	real everyday human interactions.
+Who PoAt is for:
+•	Private individuals – for peer-to-peer deals and exchanges.
+•	Freelancers and small businesses – for working with unknown clients.
+•	Workshops, repair shops, local stores, micro e-commerce –
+to build portable reputation beyond a single platform.
+•	Communities and cooperatives – for mutual aid, sharing economy, DAO models.
+•	Platforms and marketplaces – as an additional trust layer.
+________________________________________
+7. Future uses of PoAt – deals between people, small companies and strangers online
+7.1. Deals between private individuals
+Examples:
+•	selling a phone to a stranger,
+•	sending a parcel while taking risk,
+•	buying something from a person you see for the first time online.
+With PoAt:
+•	before taking risk, parties can “look each other up” using PoAt.
+•	Platforms can:
+o	offer different conditions depending on PoAt level
+(escrow, cash-on-delivery, prepay/postpay).
+Result:
+Less fraud, less fear, more honest deals.
+7.2. Small businesses, services, craftsmen, repair shops
+Local repair shops, craftsmen, tailors, hairdressers, small online shops:
+•	with PoAt, can show:
+o	a real count of successfully completed services and deals,
+o	how disputes were handled,
+o	what causes they support via AltruBox/AltruMoneta.
+Clients no longer look only at “one or two bad reviews”,
+but at overall behavior over time.
+7.3. Online purchases/sales with strangers
+Marketplaces and e-commerce platforms:
+•	can use PoAt to:
+o	onboard new sellers with better conditions if they have strong PoAt,
+o	offer credit/payment options to buyers with positive PoAt history.
+PoAt becomes a “passport of trust” for global online markets.
+7.4. Rentals – housing, cars, equipment, shared economy
+For rentals of:
+•	apartments, rooms,
+•	cars, bikes, scooters,
+•	equipment, tools, studios,
+PoAt allows:
+•	dynamic deposits – lower for reliable people,
+•	recording events in case of problems – which affects future conditions.
+Trust becomes cheaper for the trustworthy and more expensive for the risky.
+7.5. B2B between small companies
+Small companies in different cities/countries:
+•	can use PoAt to decide:
+o	whether to offer deferred payment,
+o	whether to ship goods on trust,
+o	how to structure terms.
+PoAt complements classic “credit checks” with human behavior data.
+________________________________________
+8. Summary – why PoAt is the focus
+In the trilogy:
+•	AltruBox gives shape to the gesture (gift + cause).
+•	AltruMoneta gives direction to value (toward cause, not between people).
+•	PoAt gives memory to trust (a story that lives on the blockchain).
+The long-term focus is PoAt, because:
+•	the box and the coin are the “stage and props”,
+•	PoAt is the script that remains written after every act.
+This story:
+•	is decentralized (no single owner),
+•	open and verifiable (on blockchain),
+•	portable across platforms and contexts,
+•	and is built around one simple but powerful idea:
+The gift is between us.
+The coin is for the world.
+The trust – for everyone, recorded forever.
+An open source software and platform
+
